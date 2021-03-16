@@ -1,10 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
 import Navbar from './Navbar';
 import Home from './Home';
 
 function App() {
-  const s1 = "My String";
   return (
     <div className="App">
       <Navbar />
